@@ -91,8 +91,6 @@ import random
 #     elif num_system == 8:
 #         result = '0o' + digits
 #         return result
-#     else:
-#         return 'провал'
 #
 #
 # number_in_ten_system = int(input('Введите число в десятичной системе '))
